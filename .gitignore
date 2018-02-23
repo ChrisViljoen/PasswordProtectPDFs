@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+/.vs/config/applicationhost.config
+/.vs/Aurora/v15/sqlite3/storage.ide
+/.vs
+debug.log
+*.rsuser
